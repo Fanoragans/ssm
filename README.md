@@ -21,3 +21,6 @@ $ git pull
 
 $ python ssm.py
 ```
+Izin dulu mau recode file ini ke fanora Gans
+
+Mksh udh pake SC ku jangan lupa follow github ku
